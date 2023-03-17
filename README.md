@@ -7,7 +7,7 @@
 ---
 
 ## DOWNLOAD :
-[klik ini untuk download zip](https://github.com/xd-team-botz/xdbotz-v1/archive/refs/heads/main.zip)
+[klik ini untuk download zip](https://github.com/renzzxd/RenzzBot-V1/archive/refs/heads/master.zip)
 
 ## OFFICIAL GROUP 
 [klik ini untuk gabung](https://chat.whatsapp.com/JU2My7BcbWGEl3N6ejMzpG)
